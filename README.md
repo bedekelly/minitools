@@ -9,7 +9,7 @@ basic) testing framework.
 
 ###Usage
 
-For some example usage, please see [tests.py](tests.py): this is an example of how one
+For some example usage, please see [example.py](example.py): this is an example of how one
 might test the code within `test_module`. It uses each of the three subpackages: mock,
 patch, and test. Feel free to play around with the code and see what happens when the
 test-cases fail etc.
